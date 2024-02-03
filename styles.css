@@ -21,6 +21,7 @@ body{
     border-style: inset;
     border-width: 0.3em;
     border-color: rgba(13, 13, 42, 0.8);
+    display:grid;
   }
   
   h1, p{
