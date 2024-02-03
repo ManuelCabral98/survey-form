@@ -1,0 +1,58 @@
+body{
+    width: 100%;
+    margin: 0;
+    height: 100vh;
+    font-family: sans-serif;
+    font-size: 16px;
+    background-image: url("https://4kwallpapers.com/images/wallpapers/windows-11-bloom-collection-blue-background-blue-abstract-3840x2160-9033.jpg");
+    background-size: 100%;
+    color: white;
+    
+  }
+  
+  form {
+    color: white;
+    background: rgba(27, 27, 50, 0.9);
+    background-size: auto;
+    padding: 4em;
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    border-style: inset;
+    border-width: 0.3em;
+    border-color: rgba(13, 13, 42, 0.8);
+  }
+  
+  h1, p{
+    margin: 1em auto;
+    text-align: center;
+  }
+
+p {
+    font-style: oblique 35deg;
+}
+  
+  fieldset{
+    padding: 10px 10px 10px 5px;
+    margin:2em auto;
+    border: none;
+  }
+  
+  input{
+    margin-bottom: 1em;
+  }
+  
+  input[type="submit"] {
+    display: block;
+    padding-bottom: 0;
+    width: 20%;
+    margin: 1em auto;
+  }
+
+input, textarea {
+    background-color: #26265c;
+    color: white;
+    border: 1px solid #26265c;
+
+
+}
